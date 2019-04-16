@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Apr 16 12:27:21 SGT 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Yuvaraja\\Downloads\\android-advanced-master\\android-advanced-master\\SensorListeners\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+0.path=classes.dex
+0.set=DEX
+count=1
